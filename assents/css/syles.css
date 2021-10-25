@@ -1,0 +1,23 @@
+body {
+    font-family: 'Titillium Web', Arial, Verdana, sans-serif;
+}
+
+#fondo{
+    background-image: url("../images/chicago_1920_30.png");
+}
+#franja2 {
+    background-color: #27A844;
+}
+#franja4 {
+    background-color: #353A40;
+}
+h1 {
+    font-family: 'Titillium Web', Arial, Verdana, sans-serif;
+}
+p {
+    text-align: justify;
+    font-family: 'Titillium Web', Arial, Verdana, sans-serif;
+}
+.centrado {
+    text-align: center;
+}
